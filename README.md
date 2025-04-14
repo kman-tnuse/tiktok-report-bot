@@ -13,7 +13,7 @@ TikTok report bot are a tool designed to automate the process of reporting accou
 ## 🟢 GET THE TOOL
 <p align="center"> 
   <b>Get the tool:</b><br>
-  <a href="https://tinyurl.com/mzrmav8f"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/tiktokrepsn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>  
 
 ---
